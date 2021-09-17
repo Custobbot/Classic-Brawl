@@ -424,7 +424,7 @@ class DataBase:
                     "PlayerID": self.player.LowID,
                     "PlayerName": self.player.name,
                     "PlayerRole": 2,
-                    "Message": "Welcome to you're new club!"
+                    "Message": "Welcome to you're new clu!"
                 }
             }
         }
